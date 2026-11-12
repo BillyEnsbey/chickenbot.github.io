@@ -1,4 +1,4 @@
-# chickenbot.github.io
+# chickenbot pages!
 A place to keep the Privacy Policy and Terms of Use for the Chickenbot.
 
 
