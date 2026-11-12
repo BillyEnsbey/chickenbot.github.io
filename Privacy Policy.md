@@ -1,5 +1,7 @@
 Privacy Policy
 
+These terms apply to the use of the Chicken Bot.
+
 What I collect: When you manually save a quote, or anything else, this bot stores the provided text, your Discord User ID, and the Server (Guild) ID. I do not collect passwords, emails, or other sensitive information. I do not store any messages that you haven't explicitly submitted to the bot. The bot does scan incoming messages for some trigger phrases (try asking "What do I get for lunch?"), but none of these get saved anywhere.
 
 How it's stored: All user and server data is saved in a database on a private server with restricted access to me, the admin, only. The database itself is not encrypted at rest, and as the bot developer, I have direct administrative access to it for maintenance and troubleshooting. While access to the server is locked down, this is a hobby project and I cannot guarantee absolute security against breaches.
